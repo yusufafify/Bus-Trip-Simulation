@@ -61,4 +61,18 @@ In this project, various data structures were utilized to optimize the Bus Trip 
 For more detailed information on the usage of each data structure for specific objects and the rationale behind their selection, please refer to the documentation available in the [GitHub repository](https://github.com/yusufafify/Bus-Trip-Simulation/blob/master/Data%20Structures%20Documentation.pdf). The documentation provides insights into the design choices and the advantages of utilizing particular data structures for different components of the project.
 
 ## Previews:
+The user enters the File name and choose the Type of the simulation he wants:
+<ul>
+  <li>IF Silent Mode
+  
+![Screenshot 2024-01-25 154356](https://github.com/yusufafify/Bus-Trip-Simulation/assets/115397064/805dbcfc-7df2-4361-9a77-dbfa0d881484)
+  </li>
 
+  <li>IF interactive Mode
+  
+![Screenshot 2024-01-25 154226](https://github.com/yusufafify/Bus-Trip-Simulation/assets/115397064/9ee83583-72f0-4390-89b0-db20e84508d2)
+  </li>
+</ul>
+Output file Generated:
+
+![Screenshot 2024-01-25 154138](https://github.com/yusufafify/Bus-Trip-Simulation/assets/115397064/814e562f-6052-43ba-aaea-dba9f6689b13)
