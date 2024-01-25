@@ -59,3 +59,6 @@ In this project, various data structures were utilized to optimize the Bus Trip 
 </ul>
 
 For more detailed information on the usage of each data structure for specific objects and the rationale behind their selection, please refer to the documentation available in the [GitHub repository](https://github.com/yusufafify/Bus-Trip-Simulation/blob/master/Data%20Structures%20Documentation.pdf). The documentation provides insights into the design choices and the advantages of utilizing particular data structures for different components of the project.
+
+## Previews:
+
